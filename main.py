@@ -9,6 +9,7 @@ if len(chaine) == 0:
     mots = mots - 1
 
 for car in chaine:
+
     if car.isspace():
         if nextChar:
             mots = mots + 1
