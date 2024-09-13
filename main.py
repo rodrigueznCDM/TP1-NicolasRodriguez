@@ -17,6 +17,4 @@ for car in chaine:
             mots = mots + 1
             nextChar = False
 
-
-
 print("\nIl y a", mots,"mot(s) dans cette chaîne de caractères")
