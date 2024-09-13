@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9bdd4d6-bf1c-4811-bbf4-5b8771844173" name="Changes" comment="trouver bug prochaine période">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="e9bdd4d6-bf1c-4811-bbf4-5b8771844173" name="Changes" comment="travail terminé" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,12 +97,29 @@
       <option name="project" value="LOCAL" />
       <updated>1725907870237</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="travail terminé">
+      <option name="closed" value="true" />
+      <created>1726236234106</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726236234106</updated>
+    </task>
+    <task id="LOCAL-00004" summary="travail terminé">
+      <option name="closed" value="true" />
+      <created>1726236261849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726236261849</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="trouver bug prochaine période" />
-    <option name="LAST_COMMIT_MESSAGE" value="trouver bug prochaine période" />
+    <MESSAGE value="travail terminé" />
+    <option name="LAST_COMMIT_MESSAGE" value="travail terminé" />
   </component>
 </project>
