@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9bdd4d6-bf1c-4811-bbf4-5b8771844173" name="Changes" comment="travail terminé" />
+    <list default="true" id="e9bdd4d6-bf1c-4811-bbf4-5b8771844173" name="Changes" comment="travail terminé pour vrai cette fois" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,13 +113,30 @@
       <option name="project" value="LOCAL" />
       <updated>1726236261849</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="travail terminé">
+      <option name="closed" value="true" />
+      <created>1726236857453</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726236857453</updated>
+    </task>
+    <task id="LOCAL-00006" summary="travail terminé pour vrai cette fois">
+      <option name="closed" value="true" />
+      <created>1726236902024</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726236902024</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="trouver bug prochaine période" />
     <MESSAGE value="travail terminé" />
-    <option name="LAST_COMMIT_MESSAGE" value="travail terminé" />
+    <MESSAGE value="travail terminé pour vrai cette fois" />
+    <option name="LAST_COMMIT_MESSAGE" value="travail terminé pour vrai cette fois" />
   </component>
 </project>
